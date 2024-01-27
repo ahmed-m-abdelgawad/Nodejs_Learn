@@ -21,3 +21,105 @@ node.exe
 
 --------------------------------
 
+Editor لو عايز اكون وضع الـ 
+
+(.editor) عن طريق ان اكتب 
+
+واكتب مثلا 
+var x = 10
+var y = 20
+var z = x + y
+
+ طيب انا خلصت عايز اطبع النتيجه 
+
+ ctrl + D هدوس على 
+
+واكتب 
+> console.log(z)
+
+--------------------------------
+
+لو عايز أحفظ الكود 
+
+.save (file name.js)
+مثال
+.save code.js
+
+مكان الحفظ بيكون فى نفس مسار الى فتحت منه الريبل
+
+--------------------------------
+
+لو عايز افتح الكود من الفايل الى اتحفظ
+.load (file name.js)
+مثال
+.load code.js
+
+--------------------------------
+
+
+--------------------------
+REPL Recommended Commands |
+--------------------------
+
+• .break
+o Exit multiline expression e.g. writing statements within any block
+scope
+o Sometimes you get stuck, this gets you out
+• .clear
+o Alias for .break
+• .exit or ctrl+c twice or ctrl+d
+o Exit and terminate the repl terminal
+• .help
+o Print this help message
+• .load file_nm
+o Load JS from a file into the REPL session
+• .save file_nm
+o Save all evaluated commands in this REPL session to a file
+• .editor
+o Enter editor mode
+• ctrl+d
+o finish editing mode
+• ctrl+c
+o cancel editing mode
+o terminate the current command
+• ctrl+l
+o clear screen
+• ctrl+n
+o next history item
+• ctrl+p
+o previous history item
+• _
+o The underscore(_) can be used to get the last result
+• Up/Down keys
+o Navigate command history
+• Tab key
+o display the current command keyword after typing its first letter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

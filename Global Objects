@@ -1,0 +1,13 @@
+ موجوده جواه Global Object  كل مديول فيه مجموعه من الـ 
+زى :
+
+- module
+- exports
+- require
+- _dirname
+- _filename
+
+----------------------
+Node Rapping Function |
+----------------------
+
